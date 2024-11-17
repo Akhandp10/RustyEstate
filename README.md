@@ -1,9 +1,20 @@
-# React + Vite
+# RustyEstate 
+  RustyEstate is a simple estate selling and renting web app using React and nodejs with express.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+1. Clone the repository
+2. Run `npm install` in the root directory
+3. Run `npm install` in the client directory
+4. Run `npm run dev` in the root directory
 
-Currently, two official plugins are available:
+## Features
+- User authentication
+- User can add, edit, delete and view properties
+- User can search for properties
+- User can view properties in a list
+- User can view properties in a grid
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# RustyEstate
+## Technologies
+- React
+- Nodejs
+- Express
